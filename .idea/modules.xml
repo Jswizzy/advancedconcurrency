@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/advancedconcurrency.iml" filepath="$PROJECT_DIR$/advancedconcurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barrierAndLatch/barrierAndLatch.iml" filepath="$PROJECT_DIR$/barrierAndLatch/barrierAndLatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executorsFuturesCallables/executorsFuturesCallables.iml" filepath="$PROJECT_DIR$/executorsFuturesCallables/executorsFuturesCallables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producersConsumersLocksSemaphores/producersConsumersLocksSemaphores.iml" filepath="$PROJECT_DIR$/producersConsumersLocksSemaphores/producersConsumersLocksSemaphores.iml" />
+    </modules>
+  </component>
+</project>
