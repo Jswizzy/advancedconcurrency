@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/advancedconcurrency.iml" filepath="$PROJECT_DIR$/advancedconcurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/barrierAndLatch/barrierAndLatch.iml" filepath="$PROJECT_DIR$/barrierAndLatch/barrierAndLatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casingAtomic/casingAtomic.iml" filepath="$PROJECT_DIR$/casingAtomic/casingAtomic.iml" />
       <module fileurl="file://$PROJECT_DIR$/executorsFuturesCallables/executorsFuturesCallables.iml" filepath="$PROJECT_DIR$/executorsFuturesCallables/executorsFuturesCallables.iml" />
       <module fileurl="file://$PROJECT_DIR$/producersConsumersLocksSemaphores/producersConsumersLocksSemaphores.iml" filepath="$PROJECT_DIR$/producersConsumersLocksSemaphores/producersConsumersLocksSemaphores.iml" />
     </modules>
